@@ -57,4 +57,5 @@ You can analyze headers using tools like:
 
 ## Files Included
 - **Phishing Email sample** - Raw Phishing email in HTML
+- **Screenshot**- Screenshot of Phishing email header analyzer
 - **README.md** - This report
